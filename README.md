@@ -94,8 +94,14 @@ Honesty. Integrity. Immersion. Preservation. Progress.
 
 **Item 3 : Ethics Policy**<br />
 Core Items: <br />
+1. Accountability:
+2. Respect:
+3. Integrity:
+4. Transparency:
+5. Purpose:
 
 Board: <br />
+
 
 **Item 4 : Experimention & Priorities** <br />
 A. Experimentation  <br />
