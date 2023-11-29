@@ -35,6 +35,7 @@ Conferences to present the product : <br />
 Participate in ed-tech and VR-related conferences and events. These platforms allow you to showcase your product, network with potential partners and investors, and gain valuable feedback from experts in the field. Consider events like the International Society for Technology in Education (ISTE) conference or the Game Developers Conference (GDC) for VR-specific opportunities.
 
 D. Teams <br />
+
 Yash Berawala:
 Chief Executive Officer at Alexandria VR. Based in Bay Area, attended CSU East Bay for Computer Science. As the CEO of the company, my role involves providing leadership, setting strategic direction, and overseeing the overall management and performance of the organization. Yash will bring backgroun with experience with working other 
 
