@@ -75,13 +75,22 @@ Lost Recollection for the Virtual World
 **Item 2 : Cultural Policy**<br />
 
 A. Core Values:
-Honesty, Integrity, Immersion.
+Honesty, Integrity, Immersion. 
+
+Our fundamental beliefs at AlexandriaVR act as the compass points that characterize who we are as a company and how we engage with the outside world. First and foremost, honesty demonstrates our dedication to openness and veracity in all facets of our work. We think that establishing trust is crucial, and that sincerity is the cornerstone of enduring partnerships.
+
+The second pillar of our fundamental principles, integrity, stands for the moral and ethical foundation of our business. Both inside and beyond the company, we work hard to uphold the highest standards of conduct. Our drive to making a positive impact on the world is reflected in our commitment to honesty, which goes beyond the items we produce.
+
+The third fundamental value, immersion, captures the essence of our purpose. Our goal is to offer the most immersive, unmatched historical VR experiences. We make sure that our products take people to various times by promoting an immersive culture, which enables them to interact with and comprehend history in a meaningful and lasting way.
 
 
 B. Motivation: <br />
+The ability of technology to close gaps between the past and present is something we adore. We have a strong desire to create virtual reality experiences that preserve human history, educate, and impress mankind. Our passion for history inspires us to preserve and disseminate a range of cultural narratives in order to prevent them from being lost to time.
+
+Our apprehension is the degradation of our cultural legacy and the disappearance of events that mold our group identity. We worry about a future in which the colorful tales of the past are lost. This anxiety drives us to labor nonstop to use virtual reality technology to preserve, reproduce, and make available the multitude of human experiences that are at risk of disappearing.
 
 C. Summary: <br />
-
+Honesty. Integrity. Immersion. Preservation. Progress.
 
 **Item 3 : Ethics Policy**<br />
 Core Items: <br />
