@@ -135,7 +135,7 @@ Why ?
 
 Tim Cook would be an excellent addition to project's board due to his role as the CEO of Apple and his profound influence in the technology sector. With Apple's significant impact on consumer electronics and its interest in augmented reality technologies, Cook's involvement could provide crucial insights into integrating your VR experiences into a widely used and influential ecosystem. His leadership in a tech giant like Apple suggests a keen understanding of industry trends and innovation, potentially guiding your project toward cutting-edge advancements in the VR education sector. Furthermore, Cook's strategic vision and extensive network could open doors to valuable partnerships and collaborations, amplifying the project's reach and impact. While securing his involvement would require careful consideration, Tim Cook's presence on the board could contribute substantially to the project's success by bringing industry expertise, strategic guidance, and opportunities for cross-industry collaboration.
 
-**Item 4 : Experimention & Priorities** <br />
+**Item 4 : Experimentation & Priorities** <br />
 A. Experimentation  <br />
 
 Strategy Restatement:
