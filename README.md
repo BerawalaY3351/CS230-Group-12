@@ -37,18 +37,27 @@ Participate in ed-tech and VR-related conferences and events. These platforms al
 D. Teams <br />
 
 Yash Berawala:
-Chief Executive Officer at Alexandria VR. Based in Bay Area, attended CSU East Bay for Computer Science. As the CEO of the company, my role involves providing leadership, setting strategic direction, and overseeing the overall management and performance of the organization. Yash will bring backgroun with experience with working other 
+
+<img src="https://github.com/BerawalaY3351/CS230-Group-12/blob/main/Images/IMG_7803.jpg" width="200" height="200" />
+
+Chief Executive Officer at Alexandria VR. Based in Bay Area, attended CSU East Bay for Computer Science. As the CEO of the company, my role involves providing leadership, setting strategic direction, and overseeing the overall management and performance of the organization. Yash will bring background with experience with working other 
 
 Warren Viray:
+
+<img src="https://github.com/BerawalaY3351/CS230-Group-12/blob/main/Images/IMG_0637.jpg" width="200" height="300" />
 
 The Lead Marketing Specialist for Alexandria VR.  Before joining Alexandria VR, he served as a Content Creator for Envision.  Born and raised in the Bay Area, Mr. Viray is an active user of virtual reality, as he continues to pursue opportunities and learning experiences that can be brought to life.  Mr. Viray holds a Bachelor's of Science in Computer Science from CSU East Bay and is the former President of the VR Club.
 
 Owen Gallegos: 
 
+<img src="https://github.com/BerawalaY3351/CS230-Group-12/blob/main/Images/IMG_3884.png" width="200" height="300" />
+
 The leader of experimentation at Alexandria VR. 
 Before Alexandria VR, Owen played collegiate baseball for CSU East Bay as well as summer collegiate leagues including the Pacific International League and the West Coast League. Owen brings a unique background with experience working with baseball training technologies such as HitTrax and Rapsodo which utilize virtual reality and artificial intelligence to optimize performance.
 
 Andreas Sotiras:
+
+<img src="https://github.com/BerawalaY3351/CS230-Group-12/blob/main/Images/IMG_4785.jpg" width="200" height="300" />
 
 The Chief Creative Director for Alexandria VR. Based in the Bay Area, he attended CSU East Bay for Computer Science and Chabot College with a background in History. His drive for archiving historical events to impact the virtual world in a more immersive way has brought innovation to the way people view world events.
 
