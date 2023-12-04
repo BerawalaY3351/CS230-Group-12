@@ -179,3 +179,6 @@ We can work directly with schools and educators interested in trying a demo of A
 B. Priorities:  <br />
 
 We believe the most valuable data will be from the user testing from educators. Educators will be able to give valuable feedback regarding the effectiveness of our teaching techniques. Students testing the demo will be arguably more valuable because it can provide actual data on how users interact with the experience.
+
+YouTube Presentation:
+https://youtu.be/SLoLfEFQql8?si=QlTir3znRQBUTWLJ
