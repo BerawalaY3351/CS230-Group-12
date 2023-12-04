@@ -1,6 +1,8 @@
 # CS230-Group-12
 ## Project - Entreprenuerism &amp; Ethics
+
 Youtube: https://youtu.be/SLoLfEFQql8
+
 **Item 1 : Business Plan**
 <br />
 A. Company Name: 
